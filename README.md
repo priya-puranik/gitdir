@@ -1,0 +1,2 @@
+# gitdir
+Learning git
